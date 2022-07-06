@@ -15,9 +15,5 @@ I'm currently Learning React, Angular<br>Ask me About Solidity, BlockChain, DAOs
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BrianMakanjira&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BrianMakanjira&icon=0&color=0)](https://visitcount.itsvg.in)
-
